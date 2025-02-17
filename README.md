@@ -1,7 +1,7 @@
-# Auto-ML-Regression-Classification
+# Auto-ML-Regression
 
 ## Overview  
-This repository provides an automated framework for **regression** and **classification** tasks using Object-Oriented Programming (OOP).  
+This repository provides an automated framework for **regression** tasks using Object-Oriented Programming (OOP).  
 It allows users to input a dataset, perform preprocessing, train models, and generate detailed plots for analysis—all with minimal manual intervention.
 
 ## Features  
