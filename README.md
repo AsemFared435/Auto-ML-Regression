@@ -6,7 +6,8 @@ It allows users to input a dataset, perform preprocessing, train models, and gen
 
 ## Features  
 - **Automated Data Preprocessing**: Handles missing values, encoding, and scaling.  
-- **Regression Models**: Includes multiple regression algorithms with evaluation metrics.  
+- **Regression Models**: Includes multiple regression algorithms with evaluation metrics.
+-  
 - **Visualization**: Generates key plots for model performance analysis.  
 - **Object-Oriented Design**: Structured, reusable, and scalable implementation.
 
